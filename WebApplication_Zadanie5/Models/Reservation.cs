@@ -1,4 +1,4 @@
-namespace WebApplication_Zadanie5.Models;
+
 
 using System.ComponentModel.DataAnnotations;
 
